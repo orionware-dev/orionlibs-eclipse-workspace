@@ -1,7 +1,0 @@
-description.filestatelongevity=8640000000
-description.maxfilestates=500
-description.maxfilestatesize=10485760
-description.snapshotinterval=3600000
-eclipse.preferences.version=1
-refresh.enabled=true
-version=1
