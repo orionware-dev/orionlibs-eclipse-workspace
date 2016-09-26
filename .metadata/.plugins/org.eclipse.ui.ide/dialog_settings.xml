@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="581" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="427" key="DIALOG_HEIGHT"/>
+		<item value="714" key="DIALOG_X_ORIGIN"/>
+		<item value="248" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\workspaces\orionware-systems\orionware-systems"/>
+			<item value="C:\workspaces\orion\orionware-libraries\libraries-tester"/>
+			<item value="C:\workspaces\orion\orionware-libraries\libraries-builder"/>
+			<item value="C:\workspaces\orion\orionware-libraries"/>
+			<item value="C:\Users\Adriano\Downloads"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\Demo"/>
+			<item value="C:\workspaces\mathsware"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\core"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\designpatterns"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\datastructures"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries"/>
+			<item value="C:\workspaces\orion\dev\projects\development-tools"/>
+			<item value="C:\workspaces\orion\dev\development-tools"/>
+			<item value="C:\workspaces\orion\dev\projects"/>
+			<item value="C:\workspaces\orion\dev"/>
+			<item value="C:\workspaces\orion\libraries\projects"/>
+			<item value="C:\workspaces\orion\all-libraries"/>
+			<item value="C:\workspaces\orion-libraries-eclipse-workspace\orion-libraries"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="C:\workspaces\orion\orionware-libraries\core" key="OUTSIDE_LOCATION"/>
+	</section>
+	<section name="DialogMarkerPropertiesDialogSettings">
+		<item value="722" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="298" key="DIALOG_HEIGHT"/>
+		<item value="603" key="DIALOG_X_ORIGIN"/>
+		<item value="321" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/Pipeline.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/pipeline/filter/Filter.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/lists/OrionList.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreobjects/src/core/objects/OrionObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/configuration/DataStructuresConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/DesignPatternsConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/DesignPatternsInternalConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/configuration/DependencyInjectionAnnotations.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/processing/impl/DependencyInjectorImplServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/annotation/EmptyFilter.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/annotation/EmptyPipeline.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/annotation/Injector.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/instancevariables/access/impl/ReflectionInstanceVariablesAccessServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/integrationtests/datastructuresintegrationtests/dependencyinjection/impl/TestClass4Impl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/configuration/DataStructuresAnnotations.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/configuration/DataStructures.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/DataStructuresObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/annotations/impl/EmptyPipelineAnnotationServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/annotations/impl/EmptyFilterAnnotationServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/configuration/src/configuration/LibrariesConfigurationMapper.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/integrationtests/datastructuresintegrationtests/annotationinstantiation/AnnotationInstantiationTest.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/unittests/datastructuresunittests/lists/size/DataStructureSizeTest.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/integrationtests/designpatternsintegrationtests/dependencyinjection/DependencyInjectionTest.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/integrationtests/datastructuresintegrationtests/dependencyinjection/DependencyInjectionTest.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/unittests/datastructuresunittests/lists/OrionListTest.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/integrationtests/designpatternsintegrationtests/pipeline/PipelineTest.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/documentation/tasks.txt&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/computation/src/computation/annotation/parallelism/GPUParallelismAdditionExample.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/webcore/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/computation/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/configuration/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/core/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreobjects/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreutilities/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/filesystem/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/flow/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/libraries-builder/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/webservices/build/build.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/pipeline/AbstractPipeline.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/core/src/core/abstraction/ConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/configuration/src/configuration/CoreConfigurationConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreutilities/src/core/utilities/strings/impl/CoreStringsServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="818" key="DIALOG_WIDTH"/>
+			<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+			<item value="586" key="DIALOG_HEIGHT"/>
+			<item value="521" key="DIALOG_X_ORIGIN"/>
+			<item value="389" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="613" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="609" key="DIALOG_HEIGHT"/>
+		<item value="661" key="DIALOG_X_ORIGIN"/>
+		<item value="118" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

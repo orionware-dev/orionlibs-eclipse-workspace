@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wst.html.ui.internal.preferences.ui.HTMLTemplatePreferencePage$HTMLEditTemplateDialog_dialogBounds">
+		<item value="971" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="545" key="DIALOG_HEIGHT"/>
+		<item value="526" key="DIALOG_X_ORIGIN"/>
+		<item value="164" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.templates.TemplatePreferencePage$EditTemplateDialog_dialogBounds">
+		<item value="1059" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="751" key="DIALOG_HEIGHT"/>
+		<item value="526" key="DIALOG_X_ORIGIN"/>
+		<item value="89" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jst.jsp.ui.internal.preferences.ui.JSPTemplatePreferencePage$JSPEditTemplateDialog_dialogBounds">
+		<item value="1030" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="538" key="DIALOG_HEIGHT"/>
+		<item value="526" key="DIALOG_X_ORIGIN"/>
+		<item value="164" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="havePropertiesNotBeenRegisteredForLibrary" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="true" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="havePropertiesNotBeenRegisteredForLibrary"/>
+			<item value="course"/>
+			<item value="PageController"/>
+			<item value="co"/>
+			<item value="tostring()"/>
+			<item value="tostring("/>
+			<item value="equals"/>
+			<item value="ConcurrentHashMap"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="galleries.add"/>
+			<item value="galleries.add("/>
+		</list>
+	</section>
+	<section name="org.eclipse.wst.xml.ui.internal.preferences.XMLTemplatePreferencePage$XMLEditTemplateDialog_dialogBounds">
+		<item value="717" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="379" key="DIALOG_HEIGHT"/>
+		<item value="218" key="DIALOG_X_ORIGIN"/>
+		<item value="357" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="407" key="DIALOG_HEIGHT"/>
+		<item value="1112" key="DIALOG_X_ORIGIN"/>
+		<item value="406" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

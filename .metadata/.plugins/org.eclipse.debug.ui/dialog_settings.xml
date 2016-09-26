@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FAVORITES_DIALOG_SECTION">
+		<item value="350" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="400" key="DIALOG_HEIGHT"/>
+		<item value="789" key="DIALOG_X_ORIGIN"/>
+		<item value="253" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.debug.ui.SELECT_LAUNCHERS_DIALOG">
+		<item value="450" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="450" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATIONS_DIALOG_SECTION">
+		<item value="1685" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value=", org.eclipse.jdt.junit.launchconfig, org.eclipse.ant.AntLaunchConfigurationType, " key="org.eclipse.debug.ui.EXPANDED_NODES"/>
+		<item value="579" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2"/>
+		<item value="826" key="DIALOG_HEIGHT"/>
+		<item value="420" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1"/>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.PROJECT_SELECTION_DIALOG_SECTION">
+		<item value="315" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="427" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.debug.ui.SINGLE_LAUNCH_CONFIGURATION_DIALOG_SECTION">
+		<item value="1179" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="810" key="DIALOG_HEIGHT"/>
+	</section>
+</section>

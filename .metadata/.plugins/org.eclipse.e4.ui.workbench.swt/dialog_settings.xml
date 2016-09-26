@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ShowViewDialog">
+		<item value="991" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="org.eclipse.mat.ui.views.SnapshotHistoryView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="848" key="DIALOG_HEIGHT"/>
+		<item value="485" key="DIALOG_X_ORIGIN"/>
+		<item value="130" key="DIALOG_Y_ORIGIN"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="Java Monitor"/>
+			<item value="Memory Analyzer Views"/>
+		</list>
+	</section>
+</section>
