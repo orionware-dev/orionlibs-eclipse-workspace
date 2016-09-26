@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="662" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="427" key="DIALOG_HEIGHT"/>
+		<item value="714" key="DIALOG_X_ORIGIN"/>
+		<item value="248" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\workspaces\orionware-systems\orionware-systems"/>
+			<item value="C:\workspaces\orionware-systems\orionware-systems\general"/>
+			<item value="C:\workspaces\orionware-systems\orionware-systems-simple"/>
+			<item value="C:\workspaces\orion\orionware-libraries"/>
+			<item value="C:\Users\Adriano\Downloads"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\Demo"/>
+			<item value="C:\workspaces\mathsware"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\core"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\designpatterns"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries\datastructures"/>
+			<item value="C:\workspaces\orion\platform\orionware-libraries"/>
+			<item value="C:\workspaces\orion\dev\projects\development-tools"/>
+			<item value="C:\workspaces\orion\dev\development-tools"/>
+			<item value="C:\workspaces\orion\dev\projects"/>
+			<item value="C:\workspaces\orion\dev"/>
+			<item value="C:\workspaces\orion\libraries\projects"/>
+			<item value="C:\workspaces\orion\all-libraries"/>
+			<item value="C:\workspaces\orion-libraries-eclipse-workspace\orion-libraries"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="C:\workspaces\orion\orionware-libraries\designpatterns" key="OUTSIDE_LOCATION"/>
+	</section>
+	<section name="DialogMarkerPropertiesDialogSettings">
+		<item value="722" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="298" key="DIALOG_HEIGHT"/>
+		<item value="603" key="DIALOG_X_ORIGIN"/>
+		<item value="321" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/documentation/tasks.txt&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/configuration/DependencyInjectionConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/DesignPatternsConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/configuration/DataStructuresConfigurationEnumeration.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/src/annotations/OrionAnnotation.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/configuration/src/configuration/Configuration.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/core/build/CoreBuild.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreobjects/build/CoreObjectsBuild.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreutilities/build/CoreUtilitiesBuild.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/configuration/DataStructures.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/configuration/DataStructuresAnnotations.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/configuration/DependencyInjectionAnnotations.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/DesignPatterns.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/DesignPatternsAnnotations.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/configuration/Pipeline.prop&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/src/annotations/AnnotationServiceObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/configuration/src/configuration/ConfigurationServiceObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/flow/src/flow/CoreFlowServiceObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/DependencyInjectionServiceObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/filesystem/src/filesystem/FileSystemServiceObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/ReflectionServiceObject.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/src/annotations/filtering/impl/AnnotationsFilteringServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/src/annotations/gathering/impl/AnnotationsGatheringServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/src/annotations/loading/impl/AnnotationsLoaderServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/annotations/src/annotations/processing/impl/AnnotationsProcessorServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/flow/src/flow/conditionals/impl/ConditionalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreutilities/src/core/utilities/collections/impl/CoreCollectionsServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreutilities/src/core/utilities/strings/impl/CoreStringsServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/size/impl/DataStructureSizeServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/processing/impl/DependencyInjectorImplServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/dependencyinjection/src/dependencyinjection/processing/impl/DependencyInjectorServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/designpatternsobject/impl/DesignPatternsObjectProcessorServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/annotations/impl/EmptyFilterAnnotationServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/annotations/impl/EmptyPipelineAnnotationServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/filesystem/src/filesystem/streams/impl/FileSystemStreamsServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/lists/factory/impl/ListFactoryServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/maps/factory/impl/MapFactoryServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/objects/equality/impl/ObjectsEqualityServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/coreobjects/src/core/objects/orionobject/impl/OrionObjectProcessorServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/pipeline/impl/PipelineFilterServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/pipeline/impl/PipelineLifecycleServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/designpatterns/src/designpatterns/pipeline/impl/PipelineServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/accessibleobjects/impl/ReflectionAccessibleObjectsServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/classes/impl/ReflectionClassesServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/constructors/access/impl/ReflectionConstructorAccessServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/constructors/retrieval/impl/ReflectionConstructorRetrievalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/constructors/retrieval/impl/ReflectionConstructorsRetrievalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/enumerations/impl/ReflectionEnumerationServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/instancevariables/retrieval/impl/ReflectionInstanceVariableRetrievalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/instancevariables/access/impl/ReflectionInstanceVariablesAccessServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/instancevariables/retrieval/impl/ReflectionInstanceVariablesRetrievalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/methods/access/impl/ReflectionMethodAccessServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/methods/retrieval/impl/ReflectionMethodRetrievalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/methods/retrieval/impl/ReflectionMethodsRetrievalServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/reflection/src/reflection/objects/impl/ReflectionObjectsServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/sets/factory/impl/SetFactoryServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/datastructures/src/datastructures/streams/impl/StreamServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="632" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="650" key="DIALOG_HEIGHT"/>
+			<item value="499" key="DIALOG_X_ORIGIN"/>
+			<item value="301" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

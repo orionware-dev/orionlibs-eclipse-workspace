@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+migrated.task.repositories.secure.store=true
+org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+org.eclipse.mylyn.tasks.ui.messages.enabled=true
+org.eclipse.mylyn.tasks.ui.servicemessage.checktime=1451535036599
+org.eclipse.mylyn.tasks.ui.servicemessage.etag="6e3-52355ef81b240"
+org.eclipse.mylyn.tasks.ui.servicemessage.lastmodified=Fri, 30 Oct 2015 17\:41\:21 GMT
+org.eclipse.mylyn.tasks.ui.templates.deleted=|https\://bugs.eclipse.org/bugs
+org.eclipse.mylyn.tasks.ui.welcome.message=true

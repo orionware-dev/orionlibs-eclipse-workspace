@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="CommitDialog.showUntracked"/>
+	<list key="CommitDialog.authorValues">
+		<item value="Efthymiou Dimitrios &lt;efthymiou.dimitrios1@gmail.com&gt;"/>
+		<item value="Dimitrios Efthymiou &lt;efthymiou.dimitrios1@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Efthymiou Dimitrios &lt;efthymiou.dimitrios1@gmail.com&gt;"/>
+		<item value="Dimitrios Efthymiou &lt;efthymiou.dimitrios1@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.ResetTargetSelectionDialog.dialogBounds">
+		<item value="530" key="DIALOG_WIDTH"/>
+		<item value="1|Tahoma|8.509091|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<item value="774" key="DIALOG_HEIGHT"/>
+		<item value="699" key="DIALOG_X_ORIGIN"/>
+		<item value="4" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="664" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="471" key="DIALOG_HEIGHT"/>
+		<item value="29" key="DIALOG_X_ORIGIN"/>
+		<item value="7" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.COMMIT_DIALOG_SECTION">
+		<item value="792" key="DIALOG_WIDTH"/>
+		<item value="1|Aero Matics|9.818182|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Aero Matics" key="DIALOG_FONT_NAME"/>
+		<item value="797" key="DIALOG_HEIGHT"/>
+		<item value="555" key="DIALOG_X_ORIGIN"/>
+		<item value="77" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\workspaces\orion\platform\orionware-libraries\.git">
+			<item value="false"/>
+			<item value="Efthymiou Dimitrios &lt;efthymiou.dimitrios1@gmail.com&gt;"/>
+			<item value="jhngrfyhr"/>
+			<item value="Efthymiou Dimitrios &lt;efthymiou.dimitrios1@gmail.com&gt;"/>
+			<item value="b562dbc351387d005a494c03b2d99fd7f20aa977"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
